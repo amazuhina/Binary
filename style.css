@@ -1,0 +1,87 @@
+* {
+    font-family: "Times New Roman",Times,serif;
+    text-decoration: none;
+}
+
+.wrapper {
+    width: 60%;
+    margin: 0 auto;
+}
+
+h3 {
+    text-align: center;
+    color: #0000FF;
+}
+
+h4{
+    color: #990000;
+    padding: 0px 8px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+p {
+    font-size: 1em;
+}
+
+.info {
+    border: 2px solid #ddddee;
+    padding: 10px;
+    border-radius: 15px;
+    background-color: #eeeeff;
+    margin: 8px 0px;
+}
+
+.lightGrey {
+    background: #f8f8f8;
+    border-radius: 10px;
+    border-top-left-radius: 0px;
+    box-shadow: 0px 5px 5px #909090, 0px 0px 5px #F2F2F2;
+    padding: 20px 1.5em 1em;
+}
+.darkGrey {
+    background: #dddddd;
+    border-radius: 10px;
+    box-shadow: 0px 5px 5px #909090, 0px 0px 5px #F2F2F2;
+    padding: 1.5em 4% 1.7em;
+    margin: auto;
+    width: 60%;
+}
+
+.equation {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.input {
+    width: 5em;
+    border-radius: 4px;
+    border: none;
+}
+
+.button {
+    text-align: center;
+    margin: 1em auto;
+}
+
+a {
+    background-color:rgb(239, 239, 239);
+    border: 1px solid rgb(59, 59, 59);
+    padding: 0.2em 2em;
+    width: 45%;
+    margin: 0em 1.5em;
+    color: #000;
+}
+
+a:hover {
+    background-color:rgb(214, 209, 209);
+}
+
+.result {
+    border: 2px solid #eeeeee;
+    border-radius: 15px;
+    background-color: #eeeeee;
+    margin: 0.5em 0;
+    padding: 0px;
+}
